@@ -24,8 +24,8 @@
       <div id="navbarBasicExample" class="navbar-menu">
         <div class="navbar-start"></div>
         <div class="navbar-end">
-          <a class="navbar-item">About us</a> <a class=
-          "navbar-item">Lectures</a>
+          <a href="#about-par" class="navbar-item">About us</a>
+          <a href="#lectures" class="navbar-item">Lectures</a>
         </div>
       </div>
     </div>
@@ -41,51 +41,46 @@
   </section>
   <section class="section">
     <div class="container">
-      <h3 class="title is-3">About us</h3>
-      <div class="content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Praesent at dolor imperdiet, aliquet risus sed, pharetra
-        odio. Praesent dictum libero at purus imperdiet malesuada.
-        Sed ut aliquam orci. In eleifend risus ac sollicitudin
-        sodales. Phasellus vehicula lorem tellus, eu vulputate mi
-        dapibus a. Orci varius natoque penatibus et magnis dis
-        parturient montes, nascetur ridiculus mus. Nunc placerat
-        tellus vel odio consectetur, sit amet finibus sapien
-        tincidunt. Etiam eu dictum elit. Sed et faucibus dolor.
-        Vivamus neque est, tempus et massa et, consectetur
-        efficitur arcu. In convallis diam libero, sed tincidunt dui
-        scelerisque id. Vivamus eleifend commodo nisi, vitae auctor
-        sem. Aliquam urna massa, gravida pretium tincidunt in,
-        consectetur non lorem. In sodales hendrerit odio, eu
-        scelerisque urna dapibus sed.
+      <div id="about-par" class="content">
+        <h3 class="title is-3">About us</h3>The <strong>University
+        of Chicago Applied Math Club</strong> (UCAMC) is an
+        undergraduate club which provides a platform for students
+        interested in applications of mathematics and statistics,
+        such as in economics (price theory and game theory),
+        computer science (complexity theory and data
+        science/machine learning), physics and biology. We hold
+        meetings where professors and graduate students present on
+        their work, and where corporations (e.g. hedge funds and
+        cybersecurity firms) discuss the way they use mathematics.
       </div>
-      <div class="tile is-ancestor">
+      <div id="about-people" class="tile is-ancestor">
         <div class="tile is-parent">
           <article class="tile is-child box">
-            <p class="title is-4">Person A</p>
+            <p class="title is-5">Anubhav Nanavaty</p>
             <p class="subtitle"></p>
           </article>
         </div>
         <div class="tile is-parent">
           <article class="tile is-child box">
-            <p class="title is-4">Person B</p>
+            <p class="title is-5">Nick Nowicki</p>
             <p class="subtitle"></p>
           </article>
         </div>
         <div class="tile is-parent">
           <article class="tile is-child box">
-            <p class="title is-4">Person C</p>
+            <p class="title is-5">Pol Gómez Riquelme</p>
             <p class="subtitle"></p>
           </article>
         </div>
         <div class="tile is-parent">
           <article class="tile is-child box">
-            <p class="title is-4">Person D</p>
+            <p class="title is-5">Alexander Haberman</p>
             <p class="subtitle"></p>
           </article>
         </div>
       </div><br>
-      <h3 class="title is-3">Lectures</h3>
+      <h3 id="lectures" class="title is-3">Lectures</h3>
+      <h4 class="subtitle is-4">Autumn 2018</h4>
       <div class="box">
         <article class="media">
           <div class="media-left">
@@ -114,12 +109,18 @@
               principles behind effective general purpose (Turing
               complete) programming language features (deep
               architectures). A variety of specific theorems and
-              architectures will be discussed.</p><iframe width=
-              "560" height="315" src=
-              "https://www.youtube.com/embed/AI1pgyV6-Xc"
-              frameborder="0" allow=
-              "accelerometer; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen></iframe>
+              architectures will be discussed.</p>
+              <div class="lecture-video">
+                <iframe width="560" height="315" src=
+                "https://www.youtube.com/embed/AI1pgyV6-Xc"
+                frameborder="0" allow=
+                "accelerometer; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+              </div>
+              <div class="lecture-link">
+                <a href="https://www.youtube.com/AI1pgyV6-Xc">Watch
+                the lecture on YouTube</a>
+              </div>
             </div>
           </div>
         </article>
@@ -128,9 +129,8 @@
   </section>
   <footer class="footer">
     <div class="content has-text-centered">
-      <p><strong>UCAMC.</strong> Write to us at <a href=
-      "#">uchicago.amc@gmail.com</a>.<br>
-      Powered by <a href="https://bulma.io">Bulma</a>.</p>
+      Write to us at <a href="#">uchicago.amc@gmail.com</a>.<br>
+      Powered by <a href="https://bulma.io">Bulma</a>.
     </div>
   </footer>
 </body>
