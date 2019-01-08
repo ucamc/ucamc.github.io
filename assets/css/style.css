@@ -1,0 +1,30 @@
+#header {
+	text-align: center;
+}
+
+/*
+.lecture-video {
+	text-align: center;
+}
+.lecture-link {
+	display: none;
+}*/
+
+#about-par {
+	max-width: 75%;
+	margin: 10px auto;
+}
+
+#about-people {
+	margin-top: 20px;
+}
+
+/*
+@media only screen and (max-width: 766px) {
+	.lecture-video {
+		display: none;
+	}
+	.lecture-link {
+		display: block;
+	}
+}*/

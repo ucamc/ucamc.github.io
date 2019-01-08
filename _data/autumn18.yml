@@ -1,0 +1,42 @@
+- who: David McAllester
+  what: Universality in Deep Learning and Models of Computation
+  when: Nov. 29th, 2018
+  photo: mcallester.png
+  url: http://ttic.uchicago.edu/~dmcallester/
+  youtube: https://www.youtube.com/watch?v=AI1pgyV6-Xc
+  abstract: "Deep learning trains circuits to perform sophisticated functions such as speech recognition, machine translation, or playing chess or go. In spite of its success, deep learning has been described as alchemy. Deep learning methods have largely evolved through empirical experimentation and folklore rather than analytical design. This talk will argue that theoretical design is likely impossible. Instead we should be trying to understand principles behind effective general purpose (Turing complete) programming language features (deep architectures). A variety of specific theorems and architectures will be discussed."
+
+- who: Sidney Nagel
+  what: Fluids Meets Applied Math
+  when: Nov. 15th, 2018
+  photo: nagel.jpg
+  url: http://nagelgroup.uchicago.edu/Nagel-Group/index.html
+  abstract: "Many complex phenomena are so familiar that we hardly realize that they defy our normal intuition. Examples include the anomalous flow of granular material, the long messy tendrils left by honey spooned from one dish to another, the pesky rings deposited by spilled coffee on a table after the liquid evaporates or the common splash of a drop of liquid onto a countertop. Aside from being uncommonly beautiful to see, many of these phenomena involve non-linear behavior where the system is far from equilibrium. Although most of the world we know is beyond description by equilibrium theories, we are still only at the threshold of learning how to deal with such deep and complex behavior."
+
+- who: Shmuel Weinberger
+  what: Topological Robotics
+  when: Nov. 8th, 2018
+  photo: weinberger.jpg
+  url: http://www.math.uchicago.edu/~shmuel/
+  abstract: "One of the goals of robotics is creating of autonomous robots. Such robots should be able to accept high-level descriptions of tasks and execute them without further human intervention. Using concepts from Topology, we can understand and address a few of the problems that arise in the endeavor to create such robots."
+
+- who: Gregory Lawler
+  what: The Self-Avoiding Random Walk
+  when: Nov. 1st, 2018
+  photo: lawler.jpg
+  url: http://www.math.uchicago.edu/~lawler/
+  abstract: "A Self-Avoiding walk (SAW) is a path on the integer lattice that never returns to any point. SAWs arose as a model for polymers. Many of the original problems are still open but there has been a lot learned by mathematicians and physicists in trying to understand them. I will describe the model and some of the mathematics that arises from it such as: why are SAWs easy to understand in high dimensions but not in two or three dimensions?"
+
+- who: Panagiotis Souganidis
+  what: From Applications, to Mathematics, to Applications
+  when: Oct. 25th, 2018
+  photo: souganidis.jpg
+  url: http://www.math.uchicago.edu/~souganidis/
+  abstract: "I plan to describe, using simple examples, that the paradigm of applied mathematics is the close interaction and feedback that connects applications, modeling and mathematics."
+
+- who: Mihai Anitescu
+  what: Mathematical and Computational Challenges in Energy Systems
+  when: Oct. 18th, 2018
+  photo: anitescu.jpg
+  abstract: "The electrical power grid (the electricity transmission and distribution system) is one of the most complex engineering achievements of the 20th century. It is also at the center of massive changes in the way we create and consume energy. A distinguishing feature of power grid applications is that optimization is ubiquitous and that it must accommodate simultaneously multiple complexity drivers. These include not only discrete variables, non-convexity, or stochasticity but also ordinary and, with the increased usage of natural gas, partial differential equations. We outline a number of existing and emerging fundamental research challenges and discuss some recent promising avenues in the area. We will discuss in some detail the issue of long-horizon dynamic optimization problems that appear in planning problems and stochastic optimization problems that accommodate the uncertainty stemming from massive penetration of renewable resources."
+
