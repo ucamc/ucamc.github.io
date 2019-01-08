@@ -25,7 +25,7 @@ layout: default
       cybersecurity firms) discuss the way they use mathematics.
       <br><br>
       <div class="has-text-centered">
-      <strong><a href="{{ site.listhost }}">Mailing list</a> | <a href="{{ site.facebookurl }}">Facebook page</a></strong>
+      <strong><a href="{{ site.listhost }}">Mailing list</a> | <a href="{{ site.facebookurl }}">Facebook page</a> | <a href="{{ '/suggest' | prepend: site.url }}">Suggest a lecturer</a></strong>
       </div>
     </div>
     <br>
