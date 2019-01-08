@@ -38,5 +38,6 @@
   what: Mathematical and Computational Challenges in Energy Systems
   when: Oct. 18th, 2018
   photo: anitescu.jpg
+  url: https://www.mcs.anl.gov/~anitescu/
   abstract: "The electrical power grid (the electricity transmission and distribution system) is one of the most complex engineering achievements of the 20th century. It is also at the center of massive changes in the way we create and consume energy. A distinguishing feature of power grid applications is that optimization is ubiquitous and that it must accommodate simultaneously multiple complexity drivers. These include not only discrete variables, non-convexity, or stochasticity but also ordinary and, with the increased usage of natural gas, partial differential equations. We outline a number of existing and emerging fundamental research challenges and discuss some recent promising avenues in the area. We will discuss in some detail the issue of long-horizon dynamic optimization problems that appear in planning problems and stochastic optimization problems that accommodate the uncertainty stemming from massive penetration of renewable resources."
 
