@@ -24,6 +24,9 @@ url: "https://ucamc.github.io"
 listhost: "https://lists.uchicago.edu/web/info/applied_math_club"
 facebookurl: "https://www.facebook.com/groups/ucamc"
 github_username: ucamc
+currentf: winter19
+
+
 
 # Build settings
 markdown: kramdown

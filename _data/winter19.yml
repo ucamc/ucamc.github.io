@@ -1,0 +1,14 @@
+lectures:
+  - &cur
+    who: Mary Silber
+    what: How my research in pattern formation led to some virtual travel via Google Maps
+    when: Jan. 10th, 2019
+    time: 6 PM
+    where: The Barn (Ryerson 352)
+    week: Week 1
+    photo: silber.jpg
+    url: "http://www.stat.uchicago.edu/~msilber/"
+    fb: "https://www.facebook.com/events/1136734449828048/"
+    abstract: "Studying how spatial patterns form, spontaneously, in nonlinear dynamical systems has a long tradition in physics and applied math, and takes a lot of its inspiration from nature. I will describe an example of this from my own research, where we investigated large-scale patterns of vegetation in dry-land ecosystems that self-organize, in response to aridity stress, at a community scale. We  investigated the dynamics, or time-evolution, of the vegetation on timescales of decades by aligning modern satellite images with old aerial survey photographs from  the 1950s. Our armchair explorations were so much fun for me. I’ll show a lot of pictures from our virtual travels, and describe some of the mathematics that led us to take these journeys."
+
+current: *cur

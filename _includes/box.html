@@ -1,0 +1,25 @@
+<div class="box">
+  <article class="media">
+    <div class="media-left">
+      <figure class="image is-64x64">
+        <a href="{{ include.lecture.url }}"><img src="{{ include.lecture.photo | prepend: "/assets/photos/" | relative_url }}"></a>
+      </figure>
+    </div>
+    <div class="media-content">
+      <div class="content">
+        <p><strong>{{ include.lecture.who }},</strong>
+        <i>"{{ include.lecture.what }}"</i><br>
+        {{ include.lecture.when }} — {{ include.lecture.time }} @ {{ include.lecture.where }}<br>
+        <i>Abstract.</i> {{ include.lecture.abstract }}</p>
+        {% if include.lecture.youtube %}
+          <div class="lecture-link">
+            <strong>» <a href="{{ include.lecture.youtube }}">Watch the lecture on YouTube</a></strong>
+          </div>
+        {% endif %}
+        {% if include.lecture.fb %}
+          <strong>» <a href="{{ include.lecture.fb }}">Facebook event</a></strong>
+        {% endif %}
+      </div>
+    </div>
+  </article>
+</div>
