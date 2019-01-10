@@ -1,16 +1,6 @@
 ---
 layout: default
 ---
-{% include hero.html %}
-
-<div class="tabs is-centered">
-  <ul>
-    <li class="is-active" href="{{ site.url }}"><a>Home</a></li>
-    <li><a href="{{ '/lectures' | relative_url }}">Lectures</a></li>
-    <li><a href="{{ site.listhost }}">Mailing list</a></li>
-  </ul>
-</div>
-
 
 <section class="section">
   <div class="container">
@@ -26,26 +16,16 @@ layout: default
       their work, and where corporations (e.g. hedge funds and
       cybersecurity firms) discuss the way they use mathematics.
       <br>
-      <!--<br><br>
-      <div class="has-text-centered">
-      <strong><a href="{{ site.listhost }}">Mailing list</a> | <a href="{{ site.facebookurl }}">Facebook page</a> | <a href="{{ '/suggest' | prepend: site.url }}">Suggest a lecturer</a></strong>
-      </div>-->
     </div>
-    <br>
+  <br>
 
     <h3 id="lectures" class="title is-3">This week's lecture</h3>
 
     {% assign current = site.data[site.currentf].current %}
     {% include box.html lecture=current %}
 
-    <h3 id="lectures" class="title is-3">Archive</h3>
-    <h4 class="subtitle is-4">Autumn 2018</h4>
-    {% for lec in site.data.autumn18 %}
-      {% include box.html lecture=lec %}
-    {% endfor %}
     <br>
-
-    <h3 id="members" class="title is-3">Board members</h3>
+    <h3 id="members" class="title is-3 has-text-centered">Board members</h3>
     <div id="about-people" class="tile is-ancestor">
       <div class="tile is-parent">
         <article class="tile is-child box">
