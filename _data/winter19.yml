@@ -1,5 +1,16 @@
 lectures:
   - &cur
+    who: Rebecca Willett
+    what: Nonlinear Models for Matrix Completion
+    when: Thursday Jan. 17th, 2019
+    time: 6 PM
+    where: The Barn (Ryerson 352)
+    week: Week 2
+    photo: willett.jpg
+    url: "https://voices.uchicago.edu/willett/"
+    fb: "https://www.facebook.com/events/2269640919940232/"
+    abstract: "The past decade of research on matrix completion has shown it is possible to leverage linear dependencies to impute missing values in a low-rank matrix. However, the corresponding assumption that the data lies in or near a low-dimensional linear subspace is not always met in practice. Extending matrix completion theory and algorithms to exploit low-dimensional nonlinear structure in data will allow missing data imputation in a far richer class of problems. In this talk, I will describe how models of low-dimensional nonlinear structure can be used for matrix completion. In particular, we will explore matrix completion in the context of unions of subspaces, in which data points lie in or near one of several subspaces, and nonlinear algebraic varieties, a polynomial generalization of classical linear subspaces. Low Algebraic-Dimension Matrix Completion (LADMC) is a novel and efficient method for imputing missing values and admits new bounds on the amount of missing data that can be accurately imputed. Theproposed algorithms are able to recover synthetically generated data up to predicted sample complexity bounds and outperform standard low-rank matrix completion in experiments with real motion capture data. This is joint work with Daniel Pimentel-Alarcon, Gregory Ongie, Laura Balzano, and Robert Nowak."
+  -
     who: Mary Silber
     what: How my research in pattern formation led to some virtual travel via Google Maps
     when: Thursday Jan. 10th, 2019

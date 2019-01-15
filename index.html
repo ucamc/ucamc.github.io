@@ -19,9 +19,10 @@ layout: default
     </div>
   <br>
 
-    <h3 id="lectures" class="title is-3">This week's lecture</h3>
-
     {% assign current = site.data[site.currentf].current %}
+    <h3 id="lectures" class="title is-3">This week's lecture</h3>
+    <h4 class="has-text-centered subtitle is-4">{{ current.week }}</h4>
+
     {% include box.html lecture=current %}
 
     <br>
