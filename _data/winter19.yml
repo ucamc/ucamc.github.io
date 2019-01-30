@@ -1,5 +1,16 @@
 lectures:
   - &cur
+    who: Guillaume Bal
+    what: From coefficients to solutions and back
+    when: Thursday Jan. 31st, 2019
+    time: 6 PM
+    where: The Barn (Ryerson 352)
+    week: Week 4
+    photo: bal.jpg
+    url: "https://www.stat.uchicago.edu/~guillaumebal/"
+    fb: "#"
+    abstract: "We will talk about the forward map, which to known coefficients and sources associates solutions of equations and about the inverse map, which roughly corresponds to the reverse direction."
+  -
     who: Savdeep S. Sethi
     what: String Theory and Physical Mathematics
     when: Thursday Jan. 24th, 2019
