@@ -1,5 +1,16 @@
 lectures:
   - &cur
+    who: —
+    what: No lecture this week!
+    when: Thursday Jan. 31st, 2019
+    time: —
+    where: —
+    week: Week 4
+    photo: "#"
+    url: "#"
+    fb: "#"
+    abstract: "Due to how absurdly cold it is, we made the decision to cancel this week's meeting. See you all next week, and stay warm!"
+  -
     who: Guillaume Bal
     what: From coefficients to solutions and back
     when: Thursday Jan. 31st, 2019
