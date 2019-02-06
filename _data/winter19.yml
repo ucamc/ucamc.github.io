@@ -1,15 +1,15 @@
 lectures:
   - &cur
-    who: —
-    what: No lecture this week!
-    when: Thursday Jan. 31st, 2019
-    time: —
-    where: —
-    week: Week 4
-    photo: default.jpg
-    url: "https://commons.wikimedia.org/wiki/File:Default-avatar.jpg"
-    fb: "#"
-    abstract: "Due to how absurdly cold it is, we made the decision to cancel this week's meeting. See you all next week, and stay warm!"
+    who: David Bindel
+    what: The Many Applications of Eigenvalues
+    when: Thursday Feb. 7th, 2019
+    time: 6 PM
+    where: The Barn (Ryerson 352)
+    week: Week 5
+    photo: bindel.jpg
+    url: "http://www.cs.cornell.edu/~bindel/"
+    fb: "https://www.facebook.com/events/283184869045446/"
+    abstract: "Eigenvalue analysis is one of the power tools in applied mathematics. Apart from the central role in the theory of linear dynamical systems, eigenvalue problems are among the few families of nonlinear equations and non-convex optimization problems that we know how to solve quickly and reliably on a computer.  In this talk, we describe three different applications where eigenvalue analysis plays a central role: the analysis of resonant micro-electro-mechanical systems (MEMS), game-theoretic models of opinion formation, and the spectral analysis of networks.  In the process, we explore perturbations, approximations, nonlinearities, and the many other ways in which eigenvalue analysis touches on a wide range of mathematical topics."
   -
     who: Guillaume Bal
     what: From coefficients to solutions and back
