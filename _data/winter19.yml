@@ -1,5 +1,16 @@
 lectures:
   - &cur
+    who: Aaron Dinner
+    what: Accelerating stochastic simulations with stratified sampling
+    when: Thursday Feb. 13th, 2019
+    time: 6 PM
+    where: The Barn (Ryerson 352)
+    week: Week 6
+    photo: dinner.jpg
+    url: "http://dinner-group.uchicago.edu/"
+    fb: "https://www.facebook.com/events/815674178784480/"
+    abstract: "A problem in computational modeling in all fields is that averages can involve contributions from relatively rare states and thus be slow to converge.  Stratified sampling is a long-standing approach to addressing this problem:  essentially, one samples from rare and common populations independently and then combines the information from the different populations with appropriate weights.  I will talk about a recent mathematical framework that extends the power of this approach significantly and show applications in bio-molecular simulations."
+  -
     who: David Bindel
     what: The Many Applications of Eigenvalues
     when: Thursday Feb. 7th, 2019
