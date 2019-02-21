@@ -1,5 +1,16 @@
 lectures:
   - &cur
+    who: Guillaume Bal
+    what: From coefficients to solutions and back
+    when: Thursday Feb. 21st, 2019
+    time: 6 PM
+    where: The Barn (Ryerson 352)
+    week: Week 7
+    photo: bal.jpg
+    url: "https://www.stat.uchicago.edu/~guillaumebal/"
+    fb: "https://www.facebook.com/events/298585790815701/"
+    abstract: "We will talk about the forward map, which to known coefficients and sources associates solutions of equations. We will then talk about the inverse map, which roughly corresponds to the reverse direction."
+  -
     who: Aaron Dinner
     what: Accelerating stochastic simulations with stratified sampling
     when: Thursday Feb. 13th, 2019
@@ -21,17 +32,6 @@ lectures:
     url: "http://www.cs.cornell.edu/~bindel/"
     fb: "https://www.facebook.com/events/283184869045446/"
     abstract: "Eigenvalue analysis is one of the power tools in applied mathematics. Apart from the central role in the theory of linear dynamical systems, eigenvalue problems are among the few families of nonlinear equations and non-convex optimization problems that we know how to solve quickly and reliably on a computer.  In this talk, we describe three different applications where eigenvalue analysis plays a central role: the analysis of resonant micro-electro-mechanical systems (MEMS), game-theoretic models of opinion formation, and the spectral analysis of networks.  In the process, we explore perturbations, approximations, nonlinearities, and the many other ways in which eigenvalue analysis touches on a wide range of mathematical topics."
-  -
-    who: Guillaume Bal
-    what: From coefficients to solutions and back
-    when: Thursday Jan. 31st, 2019
-    time: 6 PM
-    where: The Barn (Ryerson 352)
-    week: Week 4
-    photo: bal.jpg
-    url: "https://www.stat.uchicago.edu/~guillaumebal/"
-    fb: "#"
-    abstract: "We will talk about the forward map, which to known coefficients and sources associates solutions of equations and about the inverse map, which roughly corresponds to the reverse direction."
   -
     who: Savdeep S. Sethi
     what: String Theory and Physical Mathematics
