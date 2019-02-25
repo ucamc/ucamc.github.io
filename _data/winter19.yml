@@ -1,7 +1,8 @@
 lectures:
   - &cur
     who: Christopher Henderson
-    what: "Population dynamics: traveling waves and invasion speeds"
+    what: |-
+      Population dynamics: traveling waves and invasion speeds
     when: Thursday Feb. 28th, 2019
     time: 6 PM
     where: The Barn (Ryerson 352)
