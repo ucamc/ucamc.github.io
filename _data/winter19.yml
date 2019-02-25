@@ -1,14 +1,14 @@
 lectures:
   - &cur
     who: Christopher Henderson
-    what: From coefficients to solutions and back
+    what: "Population dynamics: traveling waves and invasion speeds"
     when: Thursday Feb. 28th, 2019
     time: 6 PM
     where: The Barn (Ryerson 352)
     week: Week 8
     photo: henderson.jpg
-    url: "a"
-    fb: "a"
+    url: "https://math.uchicago.edu/~henderson/"
+    fb: "#"
     abstract: "We will talk about the forward map, which to known coefficients and sources associates solutions of equations. We will then talk about the inverse map, which roughly corresponds to the reverse direction."
   -
     who: Guillaume Bal
