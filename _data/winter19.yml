@@ -1,5 +1,16 @@
 lectures:
   - &cur
+    who: Christopher Henderson
+    what: Population dynamics: traveling waves and invasion speeds
+    when: Thursday Feb. 28th, 2019
+    time: 6 PM
+    where: The Barn (Ryerson 352)
+    week: Week 8
+    photo: henderson.jpg
+    url: "https://math.uchicago.edu/~henderson/"
+    fb: "#"
+    abstract: "Most people are familiar with a number of examples of invasive species, that is, when a new species is introduced to some habitat.  In Chicago, for example, there are the Asian carp in the Chicago river and zebra mussels in Lake Michigan.  In this talk, I will go over the derivation of some basic PDE models for these invasions.  The focus will be on developing mathematical tools to understand the influence of populations to various factors (e.g., the drift of a river current, genetic variation, geographic features that "slow down" or "speed up" the species)."
+  -
     who: Guillaume Bal
     what: From coefficients to solutions and back
     when: Thursday Feb. 21st, 2019
