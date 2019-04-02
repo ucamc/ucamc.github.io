@@ -8,7 +8,7 @@ lectures:
     week: Week 1
     photo: kawagoe.jpeg
     url: "#"
-    fb: "#"
+    fb: "https://www.facebook.com/events/437285063678678/"
     abstract: >
       Exactly solvable spin models serve as crucial examples for studying topological physics.  In addition to being physically relevant for applications such as quantum computing, these models elegantly blend discrete and continuous mathematics.  In this lecture, we will explore the simplest non-trivial example: the Toric Code.
       
