@@ -5,13 +5,17 @@ layout: default
 <section class="section">
   <div class="container">
     <h3 class="title is-3">This quarter</h3>
-    <h4 class="subtitle is-4">Winter 2019</h4>
-    {% for lec in site.data.winter19.lectures %}
+    <h4 class="subtitle is-4">Spring 2019</h4>
+    {% for lec in site.data.spring19.lectures %}
       {% include box.html lecture=lec %}
     {% endfor %}
 
 
     <h3 class="title is-3">Lecture archive</h3>
+    <h4 class="subtitle is-4">Winter 2019</h4>
+    {% for lec in site.data.winter19.lectures %}
+      {% include box.html lecture=lec %}
+    {% endfor %}
     <h4 class="subtitle is-4">Autumn 2018</h4>
     {% for lec in site.data.autumn18 %}
       {% include box.html lecture=lec %}
