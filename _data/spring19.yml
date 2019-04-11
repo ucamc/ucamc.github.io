@@ -1,5 +1,18 @@
 lectures:
   - &cur
+    who: Alexander Bogatskiy
+    what: "Random Matrices and Their Applications"
+    when: Thursday April 11, 2019
+    time: 6 PM
+    where: The Barn (Ryerson 352)
+    week: Week 2
+    photo: bogatskiy.jpg
+    url: "#"
+    fb: "https://www.facebook.com/events/1201649163338157/"
+    abstract: >
+      We will discuss how the classic Central Limit Theorem for uncorrelated events is not the only fundamental universal statistical law appearing in nature. Random Matrix Theory (a.k.a. "noncommutative probability theory") lies on the intersection of the theory of integrable systems, probability theory, asymptotic analysis, complex analysis, orthogonal polynomials... It sheds light on many extremely relevant statistical phenomena, from nuclear physics to zeta functions. Using the Gaussian Unitary Ensemble as the simplest example, we will clarify the connections between Random Matrices and orthogonal polynomials, and sketch the derivations of the basic statistical properties of the eigenvalues.
+    
+  -
     who: Kyle Kawagoe
     what: "The Toric Code: A Mathematical Introduction to Topological Physics"
     when: Thursday April 4, 2019
