@@ -1,5 +1,17 @@
 lectures:
   - &cur
+    who: Daniil Rudenko
+    what: "Elliptic Curves and Applications"
+    when: Thursday April 18, 2019
+    time: 6 PM
+    where: Ryerson 255
+    week: Week 3
+    photo: rudenko.jpg
+    url: "https://daniilrudenko.com/"
+    fb: "https://www.facebook.com/events/360102691272920/"
+    abstract: >
+      I will talk about elliptic curves, one of the most simple and rich mathematical object. You encounter it, when you play “Snake 2” on Nokia, snack a donut or try to prove the Fermat’s Last Theorem. Also it might help to encrypt your proof afterwards.
+  -
     who: Alexander Bogatskiy
     what: "Random Matrices and Their Applications"
     when: Thursday April 11, 2019
