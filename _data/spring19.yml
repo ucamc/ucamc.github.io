@@ -1,5 +1,17 @@
 lectures:
   - &cur
+    who: James Evans
+    what: "Embeddings for the Science of Science and Society"
+    when: Thursday April 25, 2019
+    time: 6 PM
+    where: The Barn (Ryerson 352)
+    week: Week 4
+    photo: evans.jpg
+    url: "https://sociology.uchicago.edu/directory/james-evans"
+    fb: "#"
+    abstract: >
+      Here I explore the use of Euclidean, hyperbolic and mixed auto-encoder and parametric embeddings for the purpose of understanding human culture, language, scientific discovery and social networks. I begin with the case of human culture, and how dimensions induced by word differences (e.g., man – woman, rich – poor, black – white, liberal – conservative) in these vector spaces closely correspond to dimensions of cultural meaning, and the projection of words onto these dimensions reflects widely shared cultural connotations when compared to surveyed responses and labeled historical data. I show how nonparametric subsample and bootstrap approaches can reveal the stability of these associations, and then demonstrate these methods in a longitudinal analysis of the coevolution of class and gender associations in the United States and Great Britain over the 20th century. Then I use embeddings to explore similarities and differences across the world's languages, which reveal that while languages tend to have similar semantic clusters, with more concrete concepts tending to be clustered the most consistently, those clusters are networked in radically different ways around the world, mapping out different organizations of meaning. Then I exemplify the use of hyperbolic embeddings for the purpose of recovering not social and semantic dimensions, but hierarchies in data on 21st Century physics. Finally, I explore the concepts of geometric curvature applied to social networks, and the meaning and potential for embedding networks with mixed positive, negative and neutral curvature for mapping out the social and cultural universes in ways resonant with our modern understanding of the physical universe.
+  -
     who: Daniil Rudenko
     what: "Elliptic Curves and Applications"
     when: Thursday April 18, 2019
