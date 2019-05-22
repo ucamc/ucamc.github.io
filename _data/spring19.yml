@@ -1,5 +1,37 @@
 lectures:
   - &cur
+    who: Robert Adler
+    what: "Topology and Probability, in the service of the most humungous data set of all"
+    when: Thursday May 23, 2019
+    time: 6 PM
+    where: The Barn (Ryerson 352)
+    week: Week 8
+    photo: adler.jpg
+    url: "https://robert.net.technion.ac.il/"
+    fb: "https://www.facebook.com/events/2236757676408740/"
+    abstract: >
+      There are data sets that are normal sized, data sets that are
+      large, and there are those that qualify as “Big Data”. And then there are
+      the humungous ones, the humungousest of which is The Universe; i.e.
+      cosmological data.
+
+      Cosmological data sets are so overwhelming that, if you look hard enough,
+      you can find almost anything that you want (or do not want) to find in
+      them, and this calls for the development of powerful techniques that, on
+      the one hand, summarize the data in a meaningful way and, on the other
+      hand, allow for distinguishing between important physical phenomena and
+      those which `you just happened to see by chance’.
+
+      Abstract mathematical concepts from the rather esoteric area of Algebraic
+      Topology provide a set of techniques, for the first of these problems,
+      while Probability Theory provides the second set.
+
+      I will explain how all all three of these topics - Cosmology, Algebraic
+      Topology, and Probability Theory - fit together, although I will not
+      assume any prior knowledge of any of them. (i.e. Lots of pictures, hardly
+      any formulae, and definitely not even an attempt at a proof (despite the
+      fact that a lot of the fun is in the proofs).
+  -
     who: Elliot Lipnowski
     what: "Incomplete Information and Coordination"
     when: Thursday May 16, 2019
