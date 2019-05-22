@@ -14,18 +14,18 @@ lectures:
       large, and there are those that qualify as “Big Data”. And then there are
       the humungous ones, the humungousest of which is The Universe; i.e.
       cosmological data.
-
+      
       Cosmological data sets are so overwhelming that, if you look hard enough,
       you can find almost anything that you want (or do not want) to find in
       them, and this calls for the development of powerful techniques that, on
       the one hand, summarize the data in a meaningful way and, on the other
       hand, allow for distinguishing between important physical phenomena and
       those which `you just happened to see by chance’.
-
+      
       Abstract mathematical concepts from the rather esoteric area of Algebraic
       Topology provide a set of techniques, for the first of these problems,
       while Probability Theory provides the second set.
-
+      
       I will explain how all all three of these topics - Cosmology, Algebraic
       Topology, and Probability Theory - fit together, although I will not
       assume any prior knowledge of any of them. (i.e. Lots of pictures, hardly
