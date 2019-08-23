@@ -1,5 +1,36 @@
 lectures:
   - &cur
+    who: Niels Nygaard
+    what: "What is Block Chain all about?"
+    when: Thursday May 30, 2019
+    time: 6 PM
+    where: Ryerson 255
+    week: Week 9
+    photo: nygaard.jpg
+    url: "#"
+    fb: "#"
+    abstract: >
+      Block chain has received a lot of attention lately. It is the
+      technology underlying crypto currencies an allows traders of Bitcoins and
+      Ether to safely maintain records of their holdings and their trades. The
+      Block chain technology has many uses also outside crypto currencies. Many
+      companies are experimenting with the technology to organize and maintain
+      records of supply chains and other activities that require exact records
+      of transactions to be maintained.
+
+      The security of block chains depend on two factors: the mathematics of
+      cryptography and decentralization, so copies of the block chain is stored
+      on thousands of nodes (computers) so any attempt to tamper with the block
+      chain has to make changes to all the copies.
+
+      I will discuss the principles behind the immutability of the block chain
+      and how the mathematics of cryptography is used to ensure that
+      transactions are verified. Transactions are aggregated into blocks that
+      are added to the chain. How these blocks are created and added to the
+      chain through “mining” is another interesting innovation that further
+      enhances the security of the information stored in the block chain.
+      
+  -
     who: Robert Adler
     what: "Topology and Probability, in the service of the most humungous data set of all"
     when: Thursday May 23, 2019
