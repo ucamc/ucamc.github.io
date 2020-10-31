@@ -10,7 +10,7 @@ lectures:
     url: "https://www.linkedin.com/in/zachary-robertson-1286ba120/"
     fb: "https://www.facebook.com/events/725484251389208"
     abstract: >
-      We'll be having a talk on Machine Learning: Markov Decision Processes next week. This should be exciting for anyone into compute science, statistics, software development, data science, and quantitative research. As promised, we've diversified our lecturers' professions: our speaker will be Zach Robertson, a PhD student at UIUC who is an expert in the field. Zach recently graduated from UChicago, and is a great mentor for undergraduates interested in the field. If you have questions about courses, research opportunities, professors and/or job opportunities at UChicago, here's also a chance to learn from one of the best!
+      Deep Reinforcement Learning is becoming quite popular with recent success at games such as Alpha Go and DOTA. At the same time, a growing number of people share a concern that scaled RL would produce agents that are misaligned with the interests of their overseers. While the theory of neural networks and approximate value learning are advanced topics, the essence of these advances rely on a mathematical theory of decision making known as a Markov decision process (MDP). MDPs are a popular approach to formalizing sequential decision making under uncertainty. In this talk, we'll work out the basic formulation and present some results for the theory of MDPs and recognize some of the challenges inherent in reasoning about how generic agents would behave.
   -
     who: Alexander Razborov
     what: "Quantum Computing: Grover's Search Algorithm"
