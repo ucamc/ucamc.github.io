@@ -1,0 +1,61 @@
+lectures:
+  - &cur
+    who: Zachary Robertson
+    what: "Machine Learning and the Markov Decision Process"
+    when: Wednesday Nov. 4, 2020
+    time: 5:30 PM
+    where: Zoom (See Facebook event below for link.)
+    week: Week 6
+    photo: zachary_robertson.jpg
+    url: "https://www.linkedin.com/in/zachary-robertson-1286ba120/"
+    fb: "https://www.facebook.com/events/725484251389208"
+    abstract: >
+      We'll be having a talk on Machine Learning: Markov Decision Processes next week. This should be exciting for anyone into compute science, statistics, software development, data science, and quantitative research. As promised, we've diversified our lecturers' professions: our speaker will be Zach Robertson, a PhD student at UIUC who is an expert in the field. Zach recently graduated from UChicago, and is a great mentor for undergraduates interested in the field. If you have questions about courses, research opportunities, professors and/or job opportunities at UChicago, here's also a chance to learn from one of the best!
+  -
+    who: Alexander Razborov
+    what: "Quantum Computing: Grover's Search Algorithm"
+    when: Wednesday Oct. 28, 2020
+    time: 5:30 PM
+    where: Zoom (See Facebook event below for link.)
+    week: Week 5
+    photo: alex_razborov.jpg
+    url: "https://mathematics.uchicago.edu/people/profile/alexander-razborov/"
+    fb: "https://www.facebook.com/events/673512723364933"
+    abstract: > 
+      Quantum Computing is a big thing these days, and it is a big thing in
+      Chicago (PME, Physics, EPIQC, CQE, IMSI to mention just a few). This enormous and
+      exciting challenge in physics and engineering is largely driven by a
+      mathematical theory that can be adequately formulated in abstract,
+      machine-independent and asymptotic terms. Just as it was the case 25 years
+      ago, the Holy Grail is to achieve a practically sound implementation of two
+      cornerstone algorithms: Shor's factoring and Grover's search.
+      In our presentation we will work out the mathematical foundations of quantum
+      computing towards the latter goal as much as the time permits.
+  -
+    who: Alisa Knizel
+    what: "Random Tilings and Dimer Models"
+    when: Wednesday Oct. 21, 2020
+    time: 5:30 PM
+    where: Zoom (See Facebook event below for link.)
+    week: Week 4
+    photo: alisa_knizel.jpg
+    url: "https://stat.uchicago.edu/people/profile/alisa-knizel/"
+    fb: "https://www.facebook.com/events/829332004545165"
+    abstract: > 
+      I will talk about a class of local models in statistical mechanics, the so-called dimer models. The main example will be random tilings. Random tilings of large planar domains by simple shapes have many surprising features. They develop deterministic limit shapes, and the fluctuations around those shapes reveal universal laws of probability. The aim of the talk is to give an introduction to this topic.
+  -
+    who: Anthony Lee Zhang
+    what: "Competition and Manipulation in Derivative Markets"
+    when: Wednesday Oct. 14, 2020
+    time: 5:30 PM
+    where: Zoom (See Facebook event below for link.)
+    week: Week 3
+    photo: anthony_zhang.jpg
+    url: "https://www.chicagobooth.edu/faculty/directory/z/anthony-lee-zhang"
+    fb: "https://www.facebook.com/events/628534234479275"
+    abstract: > 
+      Goodhart's law, according to wikipedia, says that: "When a measure becomes a target, it ceases to be a good measure"
+      Finance is about prices, and there are a few prices that are very important: the S&P 500, interest rates, prices of commodities like gold and oil, and so on. These prices are used to the allocation of trillions of dollars of economic decisions. But according Goodhart's law says, whenever prices are used for decision-making, someone will have incentives to manipulate prices. I'll talk about financial market manipulation: why were banks fined 10's of billions of dollars for interest rate and foreign exchange manipulation? Why did oil prices drop to -$30? I'll discuss some history, and how manipulation is currently treated by market regulators. And I'll talk about a paper I've written, proposing a new approach to detecting and deterring market manipulation
+      This talk should be especially interesting for those of you interested in Quantitative Finance careers – especially in trading financial derivatives – as it will give direct insight into many of the trading models and their nuances.
+
+current: *cur
