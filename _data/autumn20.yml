@@ -1,5 +1,5 @@
 lectures:
-  -
+  - &cur
     who: Daniel Sanz-Alonso
     what: "Think Continuous, Be Discrete"
     when: Wednesday Nov. 11, 2020
@@ -11,7 +11,7 @@ lectures:
     fb: "https://www.facebook.com/groups/ucamc"
     abstract: > 
       In this talk I will provide several modern examples that show how algorithms, which are discrete, can be often best understood by developing continuum limits.
-  - &cur
+  - 
     who: Zachary Robertson
     what: "Machine Learning and the Markov Decision Process"
     when: Wednesday Nov. 4, 2020
