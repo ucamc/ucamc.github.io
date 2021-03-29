@@ -16,9 +16,8 @@
 title: UCAMC — UChicago Applied Math Club
 email: uchicago.amc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the webpage for the University of Chicago's undergraduate "applied math club". We are a registered student organization (RSO) that hosts
+  talks for UChicago undergraduates on topics in applied math. The purpose of this webpage is to serve as an archive of previous talks and club board members.
 baseurl: ""
 url: "https://ucamc.github.io"
 listhost: "https://lists.uchicago.edu/web/info/applied_math_club"
