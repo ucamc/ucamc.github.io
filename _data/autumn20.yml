@@ -1,5 +1,36 @@
 lectures:
-  - &cur
+  -
+    who: Alexander Bogatskiy
+    what: "Building Symmetries into Machine Learning: Lie Group Equivariant Neural Networks"
+    week: Week 9
+    photo: default.jpg 
+    abstract: > 
+      Alexander Bogatskiy, a UChicago physics graduate student under Professor Pavel Wiegmann, will be giving a talk based on the paper "Lorentz Group Equivariant Neural Network for Particle Physics" which he was the lead author of. This paper was published this summer on the arXiv and can be viewed here: https://arxiv.org/pdf/2006.04780.pdf. This line of research, lying at the intersection of representation theory, neural networks, and particle physics, is only 4.5 years old at this point! So, we HIGHLY encourage anybody interested in any or all of the above topics and fields to attend this cutting-edge talk!
+      
+      In this talk, I will argue for the importance of building symmetries into the very architectures that we use in Machine Learning, especially if we hope to apply them in fundamental scientific research. Starting with a simple introduction into representations of Lie groups, I will describe one way to design fully equivariant neural networks using tensor nonlinearities. Examples will include the rotational group SO(3) and the Lorentz group SO(1,3), with applications in chemistry and particle physics. [Familiarity with the concept of Lie groups and specifically with SO(3) is recommended.]
+      Another related paper recommended by Alexander Bogatskiy is here: https://arxiv.org/pdf/1906.04015.pdf
+  -
+    who: Tarung Bhimnathwala
+    what: "Combinatorics for Quantitative Finance Interviews"
+    week: Week 8
+    photo: default.jpg 
+    abstract: > 
+      This Friday, Tarung Bhimnathwala will be sharing techniques and strategies to solve combinatorics problems on Quantitative Finance interviews. Tarung is the Vice President of DGQT, a top research-based Quantative Finance RSO at UChicago, and has had extensive experience and successes with the interview process. Join us to learn more about one of the most competitive and rewarding fields in applied mathematics!
+  -
+    who: Joshua Weinstein
+    what: "Computational Biology - DNA Microscopy"
+    when: Wednesday Nov. 18, 2020
+    time: 5:30 PM
+    where: Zoom (See Facebook event below for link.)
+    week: Week 8
+    photo: default.jpg
+    url: "https://sites.google.com/a/uchicago.edu/sanz-alonso/"
+    fb: "https://www.facebook.com/events/464190157899327/"
+    abstract: > 
+      Biological systems, such as the brain and the immune system, store and process information from the scale of individual molecules to macroscopic tissues. Over the past two decades, DNA sequencing has played a prominent role in reading out this information, both because of the centrality of DNA to biology itself as well as because of its versatility in new technologies. 
+      Here, I'll describe how we're using DNA to re-think an old problem - microscopic imaging - using DNA itself, instead of light, as the imaging medium. I will further describe the computational inverse problem at the heart of this effort.
+      For anyone interested in Computer Science, Statistics and/or Biology, this talk will give insight into their cutting-edge intersection. Especially in these times with all the new BioTech around, this talk is highly relevant from both a corporate and research-based viewpoint!
+  -
     who: Daniel Sanz-Alonso
     what: "Think Continuous, Be Discrete"
     when: Wednesday Nov. 11, 2020
@@ -69,5 +100,3 @@ lectures:
       Goodhart's law, according to wikipedia, says that: "When a measure becomes a target, it ceases to be a good measure"
       Finance is about prices, and there are a few prices that are very important: the S&P 500, interest rates, prices of commodities like gold and oil, and so on. These prices are used to the allocation of trillions of dollars of economic decisions. But according Goodhart's law says, whenever prices are used for decision-making, someone will have incentives to manipulate prices. I'll talk about financial market manipulation: why were banks fined 10's of billions of dollars for interest rate and foreign exchange manipulation? Why did oil prices drop to -$30? I'll discuss some history, and how manipulation is currently treated by market regulators. And I'll talk about a paper I've written, proposing a new approach to detecting and deterring market manipulation
       This talk should be especially interesting for those of you interested in Quantitative Finance careers – especially in trading financial derivatives – as it will give direct insight into many of the trading models and their nuances.
-
-current: *cur

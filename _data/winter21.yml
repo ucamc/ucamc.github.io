@@ -1,0 +1,53 @@
+lectures:
+  -
+    who: Nicholas Hatsopoulos
+    what: Decoding the Mind using Brain Machine Interfaces
+    week: Week 8
+    photo: default.jpg 
+    abstract: > 
+      High interest for those interested in Neuroscience, Computer Science, Machine Learning.
+      Two fundamental challenges in developing brain machine interfaces (BMIs) are: 1) Building a decoder between patterns of brain activity and movement in paralyzed patients who can’t move their limbs and 2) Augmenting BMIs with kinesthetic and tactile feedback. We demonstrate two approaches to solving the first challenge by first showing that visual observation of action can automatically trigger mirror-like responses in primary motor cortex that are similar to the responses that occur during action and can be used to build a decoding algorithm without overt movement. We also demonstrate that amputees can learn an arbitrary mapping between brain activity and movement of a robot after long-term exposure to a BMI. The second challenge is addressed by using cortically-controlled exoskeletal robots to provide naturalistic kinesthetic feedback and by using electrical stimulation in somatosensory cortex to deliver artificial tactile feedback.
+  -
+    who: Gregory Lawler
+    what: Capital Market Consequences of Alternative Data - Evidence from Outer Space
+    week: Week 8
+    photo: default.jpg 
+    abstract: > 
+      Professor Lawler is a Wolf Prize winner - one of the most prestigious awards in Mathematics. Those interested in statistics, pure mathematics, physics, financial mathematics will love this one! Professor Lawler is an incredibly clear and deep lecturer - 4/5 of us have had him for courses!
+  
+      I will describe some of my favorite “random fractal curves”, continuous paths that are nowhere differentiable and whose paths have a "dimension" strictly greater than one. Many of these arise in statistical physics.
+  -
+    who: Dr. Panos Patatoukas
+    what: Capital Market Consequences of Alternative Data - Evidence from Outer Space
+    week: Week 6
+    photo: default.jpg 
+    abstract: > 
+      Dr. Panos Patatoukas is a tenured Professor of Finance at Berkeley Haas School of Business. His research work focuses on capital markets, corporate valuation, and bridging macroeconomics and microeconomics. Those interested in Finance (both quantitative and fundamental), Data Science, Economics and Astrodynamics will love this talk.
+      Dr. Patatoukas will be discussing his recent paper on Capital Market Consequences from Outer Space Data:
+      We study the emergence of satellite imagery of parking lot traffic across major retailers as a source of alternative data in capital markets. While satellite imagery signals embed timely
+      information for quarterly earnings announcements, stock prices do not incorporate this information prior to the public disclosure of retailer performance. This creates opportunities
+      for sophisticated investors to formulate trading strategies at the expense of individual investors, who tend to be on the opposite side of the trade. The evidence shows that unequal
+      access to alternative data can increase information asymmetry between sophisticated investors and individual investors without necessarily enhancing price discovery.
+  -
+    who: Dan Ehrlich
+    what: Spatial Analysis of Micro Credit in Thai Villages
+    week: Week 3
+    photo: default.jpg 
+    abstract: > 
+      What do 50,000 villages tell us of the impact of micro finance? We investigate the general equilibrium effects of Thailand's `Million Baht Village Fund' program, using quasi-natural variation in credit per household at the village level and a large administrative village census. We find significant village-level impacts of credit, as well as credit spillovers to neighboring villages. Credit infusion raises wages in nearby villages as a function of the local spatial configuration of villages. We develop a dynamic spatial model with migration to explore, study, and explain the spatial equilibrium and macro effects we find in the data.
+      This talk is at the intersection of Economics (focus on Developmental), Data Science, Sociology, Public Finance, and Mathematics. Those of you interested in using your mathematical toolkit to make a better world will especially love this one.
+      Dan Ehrlich is an advanced Economics PhD student at the University of Chicago. He specializes in Mathematical Macroeconomics, and is the course assistant for the notorious Theory of Income graduate sequence. He has conducted extensive research at both MIT and UChicago, including on the gender gap in mathematics!
+  -
+    who: Roger Lee
+    what: "Construction of the VIX Volatility Index"
+    week: Week 2
+    photo: default.jpg 
+    abstract: > 
+      The S&P500 index ("SPX") tracks the price of a basket of stocks of 500 large companies. It is widely followed as a measure of the performance of the US stock market.
+      How volatile does the market expect
+      the SPX to be in the next 30 days?
+      The Chicago Board Options Exchange (CBOE) answers this question by using the prices of SPX options to calculate the VIX index.
+      Without using stochastic calculus, we present a derivation that shows how the CBOE's construction of the VIX index
+      extracts information from options prices, regarding the market's expectation of future volatility.
+      For anyone interested in Economics, Computer Science, Finance and/or Data Science, this talk will help apply your interests and give you a taste of cutting-edge research in financial markets. Those interested in quantitative finance and high-frequency trading will be especially interested.
+      Professor is a director of the Financial Mathematics program at UChicago, and teaches courses in Mathematical Foundations and Numerical Methods in Option Pricing. His research interests include robust pricing and hedging and implied volatility asymptotics. He has a PhD in Economics from Stanford.

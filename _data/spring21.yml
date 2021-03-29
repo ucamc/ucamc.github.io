@@ -1,0 +1,15 @@
+lectures:
+  - &cur
+    who: Ryan Speiler
+    what: "Topological Physics"
+    when: Wednesday Mar. 31, 2021
+    week: Week 1
+    photo: default.jpg
+    abstract: >
+      For our opening talk of the quarter, Ryan Speiler will be discussing topological physics and soft matter! 
+      The talk will be at the cutting-edge intersection of algebra, topology, and physics! ABSTRACT COMING! 
+      Ryan is a Physics graduate student at UT Austin, and was an active member of UCAMC as an undergraduate at UChicago. 
+      He stayed in Coulter house throughout his 4 years, and was an incredible mentor to countless math and physics undergraduates, including some of our board members. 
+      If you would like to learn more about grad school - both applying and the experience itself - Ryan will share some incredible advice!
+
+current: *cur

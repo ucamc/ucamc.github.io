@@ -8,8 +8,10 @@
     <div class="media-content">
       <div class="content">
         <p><strong>{{ include.lecture.who }},</strong>
-        <i>"{{ include.lecture.what }}"</i><br>
-        {{ include.lecture.when }} — {{ include.lecture.time }} @ {{ include.lecture.where }}<br>
+        <i>"{{ include.lecture.what }}"</i>
+        <br>
+        {{ include.lecture.week }}
+        <br>
         <i>Abstract.</i> {{ include.lecture.abstract }}</p>
         {% if include.lecture.youtube %}
           <div class="lecture-link">
